@@ -3,6 +3,7 @@ import { GeistSans } from "geist/font/sans";
 import { cn } from "@/lib/utils";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import GridPattern from "@/components/magicui/grid-pattern";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 export default function RootLayout({
   children,
