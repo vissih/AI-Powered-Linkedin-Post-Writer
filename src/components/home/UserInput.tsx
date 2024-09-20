@@ -209,7 +209,7 @@ const UserInput = () => {
                       <Slider
                         defaultValue={[1]}
                         min={0}
-                        max={2}
+                        max={1.5}
                         step={0.1}
                         onValueChange={(val) => {
                           onChange(val[0]);
