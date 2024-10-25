@@ -1,7 +1,5 @@
 ### Live -> https://linkedin-writer-ai.vercel.app/
 
-walkthrough tutorial on how to use it -> https://youtu.be/M_Wpp7I23ug
-
 ## Resources Used in This Project
 
 #### Development Resources
